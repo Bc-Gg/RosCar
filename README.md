@@ -3,6 +3,6 @@ xmu ai 20级小车实践
 
 代码包太大了，放到百度云盘，在这里只做paper的备份。
 
-百度云盘链接：
+百度云盘链接：链接: https://pan.baidu.com/s/1Eb15HxFMmRGaFMACw_5QQw 提取码: v777 
 
-欢迎联系我：邮箱在个人主页
+欢迎联系我
